@@ -1,0 +1,59 @@
+Can be used for any game creation. FPS TPS RTS
+
+Animations included.
+
+In the Pack: Models (Guns, Magazines and Bullets, Animations), Textures and Images 
+11 Rifle, 8 Pistol, and 5 Grenades, Animations:
+
+Idle
+Hide
+Draw
+Reload
+Reload Empty
+Switch Mode
+Fire
+Fire at aim
+Melee
+Interact
+Vault
+
+You can edit them as you wish.
+
+Every weapon model has a scene with textured model and 4K settings and prefabs.
+
+Documentation text file included.
+
+All weapons are full modular, game ready and animation ready.
+
+These weapon models are royalty free replicas of the real lincensed models but do not match the real one 100%. There are no Trademarks of any real gun and can be use for games.
+
+Sharing or distribution not allowed. These Models are under contract from both Designer and Publisher!
+
+
+
+---=== Rifle 2 ===---
+
+Tris - 56168
+Faces -29070
+PBR - Yes (included specular)
+Maps - Base color, Metallic, Roughness, Normal,Ambient Occlusion,Specular
+Shaders used - 3
+HDRP - Yes
+
+---=== Pistol 4 ===---
+
+Tris - 23653
+Faces - 12605
+PBR - Yes (included specular)
+Maps - Base color, Metallic, Roughness, Normal,Ambient Occlusion,Specular,Opactiy,Emessive
+Shaders used - 2
+HDRP - Yes
+
+---=== Grenade 1 ===---
+
+Tris - 8290
+Faces - 4127
+PBR - Yes (included specular)
+Maps - Base color, Metallic, Roughness, Normal,Ambient Occlusion,Specular Shaders used - 1
+Shaders used - 2
+HDRP - Yes

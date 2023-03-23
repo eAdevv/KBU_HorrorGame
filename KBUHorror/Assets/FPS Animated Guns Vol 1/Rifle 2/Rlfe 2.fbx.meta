@@ -1,0 +1,216 @@
+fileFormatVersion: 2
+guid: 3723781005bcc014e8564ca2407bdf12
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: -7433082633390176942
+    second: Rifel2_Draw
+  - first:
+      74: 625628408318085271
+    second: Rifel2_IDLE
+  - first:
+      74: -6114569685964593958
+    second: Rifel2_Melee
+  - first:
+      74: -5305520351417717464
+    second: Rifel2_Reload2
+  - first:
+      74: 6227017234285603047
+    second: Rifel2_Reload.001
+  - first:
+      74: -2101034176977120800
+    second: Rifel2_Fire.001
+  - first:
+      74: -2314951670794718127
+    second: Rifel2_Interact.001
+  - first:
+      74: 5803619440668627231
+    second: Rifel2_Aim
+  - first:
+      74: -6990773193919279119
+    second: Rifel2_AimFire.001
+  - first:
+      74: -8300317071121078564
+    second: Rifel2_Aim.Down
+  - first:
+      74: -2647869749483960066
+    second: Rifel2_Hide.001
+  - first:
+      74: 7590856773881333722
+    second: rig|CameraAction
+  - first:
+      74: -7605146890739826580
+    second: rig|Hold
+  - first:
+      74: -7361427651036151181
+    second: rig|Idle
+  - first:
+      74: 500658588266937391
+    second: rig|Pistol_Aim
+  - first:
+      74: 4660736073706155618
+    second: rig|Pistol_Draw
+  - first:
+      74: -633125858810255799
+    second: rig|Pistol_Fire.001
+  - first:
+      74: 1973271712079133137
+    second: rig|Pistol_Hide1
+  - first:
+      74: -8491625119559835676
+    second: rig|Pistol_IDl
+  - first:
+      74: -1345890715929176751
+    second: rig|Pistol_Fire
+  - first:
+      74: -8913335652056651846
+    second: rig|Pistol_IDLE
+  - first:
+      74: -6291918851931458435
+    second: rig|Pistol_Interact
+  - first:
+      74: -3351274156168025354
+    second: rig|Pistol_Intract
+  - first:
+      74: 1177540702713766843
+    second: rig|Pistol_R
+  - first:
+      74: -8320844779576739270
+    second: rig|Pistol_Reload
+  - first:
+      74: -2281277942388008260
+    second: rig|Rifel2_Aim
+  - first:
+      74: -2730722981817439166
+    second: rig|Rifel2_Aim.Down
+  - first:
+      74: -7146111586714259127
+    second: rig|Rifel2_AimFire
+  - first:
+      74: 6146627699252499361
+    second: rig|Rifel2_Draw
+  - first:
+      74: 4467355001910575044
+    second: rig|Rifel2_Fire
+  - first:
+      74: -8439674820805616225
+    second: rig|Rifel2_Hide
+  - first:
+      74: -1097630813034126361
+    second: rig|Rifel2_IDLE
+  - first:
+      74: -4905101700185978478
+    second: rig|Rifel2_Interact
+  - first:
+      74: -2265225398292100487
+    second: rig|Rifel2_Melee
+  - first:
+      74: -1652427019087233936
+    second: rig|Rifel2_Reload
+  - first:
+      74: -2051239549447880999
+    second: rig|Rifel2_Reload2
+  - first:
+      74: 1760192696305419936
+    second: rig|Rifel2_Vault
+  - first:
+      74: -3440287844957428793
+    second: rig|Rifel_Reload
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
